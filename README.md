@@ -33,4 +33,4 @@ Notifications
 If notifications permissions are granted, a daily reminder will be set to alert you everyday at 9:00 AM if you have not completed a quiz.
 
 License
-The MobileFlashcards is Copyright © 2019.
+The MobileFlashcards is Diana Olariu  Copyright © 2019.
